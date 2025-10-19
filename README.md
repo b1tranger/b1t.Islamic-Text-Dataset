@@ -47,3 +47,30 @@ Also contained herein, in the `/The Persona` directory, is the document titled *
 ### A Personal Note
 
 *I’m leaving this here publicly, so that even if I die, this ni‘mah of Allah ﷻ will not be forgotten. Whoever stumbles upon it, may it be a source of tranquility for you In Sha Allah.*
+
+
+
+
+
+
+
+
+---
+
+## License
+
+This repository contains data under multiple licenses:
+
+### Original Content (Personas, Processing Scripts, Apotheosis Folder)
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](./LICENSE).  
+You are free to use, share, and adapt these materials with proper attribution to MD Masud Ur Rahman (Monotheist0).
+
+### Third-Party Data (Hadith Datasets)
+Some data is sourced from the [Open-Hadith-Data project](https://github.com/mhashim6/Open-Hadith-Data) under:
+- **Open Database License (ODbL) v1.0**  
+- **Database Contents License (DBCL) v1.0**  
+
+See [LICENSE-ThirdParty.md](./LICENSE-ThirdParty.md) for full details.
+
+Please respect these licenses when using or redistributing this data.
+
